@@ -14,7 +14,7 @@
 
 ## Acknowledgements
 
-- Oyeniyi Adedoyin (https://linkedin.com/in/oyeniyi-adedoyin-3959ba123/)
+- [Oyeniyi Adedoyin](https://linkedin.com/in/oyeniyi-adedoyin-3959ba123/)
 - [Node.js](https://nodejs.org/)
 
 ## Contact
