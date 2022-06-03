@@ -1,0 +1,33 @@
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro&family=Lora:ital@1&family=Montserrat&display=swap');
+
+footer {
+    .footer {
+        display:flex;  
+        ul {
+            padding-left: 0;
+        }
+        li {
+            list-style: none; 
+            font-size: 14px;     
+        } 
+    }
+    p {
+        color: #A9A9A9;
+        font-weight: 500;
+    }
+    a {
+        text-decoration: underline;
+        color: inherit;
+        font-weight: 600;
+        &:hover{
+            color: inherit;
+            font-weight: 700;
+        }
+    }
+    @media screen and (min-width: 1024px) {
+        .col-lg-2 {
+            width: 20%;
+        }        
+    }
+}
